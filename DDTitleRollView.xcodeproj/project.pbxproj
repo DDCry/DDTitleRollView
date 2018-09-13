@@ -16,6 +16,7 @@
 		634ECB18214A676C00C3EE85 /* HomeTitleRollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 634ECB16214A676B00C3EE85 /* HomeTitleRollView.m */; };
 		634ECB1B214A679900C3EE85 /* CustomColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 634ECB19214A679900C3EE85 /* CustomColorView.m */; };
 		634ECB1F214A694900C3EE85 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 634ECB1E214A694900C3EE85 /* UIView+Extension.m */; };
+		634ECB21214A752200C3EE85 /* 2018-09-13_18-25-26.gif in Resources */ = {isa = PBXBuildFile; fileRef = 634ECB20214A752100C3EE85 /* 2018-09-13_18-25-26.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		634ECB1C214A67A800C3EE85 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		634ECB1D214A694900C3EE85 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		634ECB1E214A694900C3EE85 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		634ECB20214A752100C3EE85 /* 2018-09-13_18-25-26.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-09-13_18-25-26.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		634ECAFF214A675500C3EE85 /* DDTitleRollView */ = {
 			isa = PBXGroup;
 			children = (
+				634ECB20214A752100C3EE85 /* 2018-09-13_18-25-26.gif */,
 				634ECB1A214A679900C3EE85 /* CustomColorView.h */,
 				634ECB19214A679900C3EE85 /* CustomColorView.m */,
 				634ECB17214A676C00C3EE85 /* HomeTitleRollView.h */,
@@ -147,6 +150,7 @@
 			files = (
 				634ECB0D214A675800C3EE85 /* LaunchScreen.storyboard in Resources */,
 				634ECB0A214A675800C3EE85 /* Assets.xcassets in Resources */,
+				634ECB21214A752200C3EE85 /* 2018-09-13_18-25-26.gif in Resources */,
 				634ECB08214A675600C3EE85 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
